@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @techygeek198
+- 👀 I’m interested in HTML, CSS, JS
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on anything involving Websites!
+- 📫 My Email is: techygeek198@gmail.com
